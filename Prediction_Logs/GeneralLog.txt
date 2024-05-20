@@ -1,0 +1,135 @@
+2020-02-19/16:56:37		GoodRaw directory deleted successfully!!!
+2020-02-19/16:56:37		Bad files moved to archive
+2020-02-19/16:56:37		Bad Raw Data Folder Deleted successfully!!
+2020-02-19/17:28:33		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:28:33		GoodRaw directory deleted successfully!!!
+2020-02-19/17:29:28		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:29:29		GoodRaw directory deleted successfully!!!
+2020-02-19/17:32:07		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:32:07		GoodRaw directory deleted successfully!!!
+2020-02-19/17:35:14		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:35:14		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		Bad files moved to archive
+2020-02-19/17:36:11		Bad Raw Data Folder Deleted successfully!!
+2020-04-12/21:51:00		GoodRaw directory deleted successfully!!!
+2020-04-12/21:51:00		Bad files moved to archive
+2020-04-12/21:51:00		Bad Raw Data Folder Deleted successfully!!
+2023-09-08/21:16:14		GoodRaw directory deleted successfully!!!
+2023-09-08/21:16:14		Bad files moved to archive
+2023-09-08/21:16:14		Bad Raw Data Folder Deleted successfully!!
+2023-09-08/21:42:42		GoodRaw directory deleted successfully!!!
+2023-09-08/21:42:42		Bad files moved to archive
+2023-09-08/21:42:42		Bad Raw Data Folder Deleted successfully!!
+2023-09-08/21:50:29		GoodRaw directory deleted successfully!!!
+2023-09-08/21:50:29		Bad files moved to archive
+2023-09-08/21:50:29		Bad Raw Data Folder Deleted successfully!!
+2023-09-09/14:42:41		BadRaw directory deleted before starting validation!!!
+2023-09-09/14:42:41		GoodRaw directory deleted successfully!!!
+2023-09-09/14:43:10		GoodRaw directory deleted successfully!!!
+2023-09-09/14:43:10		Bad files moved to archive
+2023-09-09/14:43:10		Bad Raw Data Folder Deleted successfully!!
+2023-09-09/14:54:14		GoodRaw directory deleted successfully!!!
+2023-09-09/14:54:14		Bad files moved to archive
+2023-09-09/14:54:14		Bad Raw Data Folder Deleted successfully!!
+2023-09-09/15:58:26		GoodRaw directory deleted successfully!!!
+2023-09-09/15:58:26		Bad files moved to archive
+2023-09-09/15:58:26		Bad Raw Data Folder Deleted successfully!!
+2023-09-09/17:39:37		GoodRaw directory deleted successfully!!!
+2023-09-09/17:39:37		Bad files moved to archive
+2023-09-09/17:39:37		Bad Raw Data Folder Deleted successfully!!
+2023-09-09/20:04:43		GoodRaw directory deleted successfully!!!
+2023-09-09/20:04:43		Bad files moved to archive
+2023-09-09/20:04:43		Bad Raw Data Folder Deleted successfully!!
+2023-09-09/20:08:54		BadRaw directory deleted before starting validation!!!
+2023-09-09/20:08:54		GoodRaw directory deleted successfully!!!
+2023-09-09/20:09:21		GoodRaw directory deleted successfully!!!
+2023-09-09/20:09:21		Bad files moved to archive
+2023-09-09/20:09:21		Bad Raw Data Folder Deleted successfully!!
+2023-09-10/15:17:23		GoodRaw directory deleted successfully!!!
+2023-09-10/15:17:23		Bad files moved to archive
+2023-09-10/15:17:23		Bad Raw Data Folder Deleted successfully!!
+2023-09-10/15:20:46		GoodRaw directory deleted successfully!!!
+2023-09-10/15:20:46		Bad files moved to archive
+2023-09-10/15:20:46		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/21:51:22		BadRaw directory deleted before starting validation!!!
+2024-05-13/21:51:22		GoodRaw directory deleted successfully!!!
+2024-05-13/21:51:36		GoodRaw directory deleted successfully!!!
+2024-05-13/21:51:36		Bad files moved to archive
+2024-05-13/21:51:36		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/21:55:38		GoodRaw directory deleted successfully!!!
+2024-05-13/21:55:38		Bad files moved to archive
+2024-05-13/21:55:38		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:04:30		GoodRaw directory deleted successfully!!!
+2024-05-13/22:04:30		Bad files moved to archive
+2024-05-13/22:04:30		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:04:59		GoodRaw directory deleted successfully!!!
+2024-05-13/22:04:59		Bad files moved to archive
+2024-05-13/22:04:59		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:10:30		BadRaw directory deleted before starting validation!!!
+2024-05-13/22:10:30		GoodRaw directory deleted successfully!!!
+2024-05-13/22:10:33		BadRaw directory deleted before starting validation!!!
+2024-05-13/22:10:33		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2024-05-13/22:10:35		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2024-05-13/22:10:47		GoodRaw directory deleted successfully!!!
+2024-05-13/22:10:47		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2024-05-13/22:11:37		GoodRaw directory deleted successfully!!!
+2024-05-13/22:11:37		Bad files moved to archive
+2024-05-13/22:11:37		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:17:25		BadRaw directory deleted before starting validation!!!
+2024-05-13/22:17:25		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2024-05-13/22:18:35		GoodRaw directory deleted successfully!!!
+2024-05-13/22:18:49		GoodRaw directory deleted successfully!!!
+2024-05-13/22:18:49		Bad files moved to archive
+2024-05-13/22:18:49		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:22:34		GoodRaw directory deleted successfully!!!
+2024-05-13/22:22:34		Bad files moved to archive
+2024-05-13/22:22:34		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:27:40		BadRaw directory deleted before starting validation!!!
+2024-05-13/22:27:40		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2024-05-13/22:27:50		GoodRaw directory deleted successfully!!!
+2024-05-13/22:27:50		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2024-05-13/22:28:29		BadRaw directory deleted before starting validation!!!
+2024-05-13/22:28:29		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2024-05-13/22:34:52		GoodRaw directory deleted successfully!!!
+2024-05-13/22:34:55		BadRaw directory deleted before starting validation!!!
+2024-05-13/22:34:55		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2024-05-13/22:35:11		GoodRaw directory deleted successfully!!!
+2024-05-13/22:35:11		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2024-05-13/22:41:12		GoodRaw directory deleted successfully!!!
+2024-05-13/22:41:12		Bad files moved to archive
+2024-05-13/22:41:12		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:43:25		GoodRaw directory deleted successfully!!!
+2024-05-13/22:43:25		Bad files moved to archive
+2024-05-13/22:43:25		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:47:28		GoodRaw directory deleted successfully!!!
+2024-05-13/22:47:28		Bad files moved to archive
+2024-05-13/22:47:28		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:51:49		BadRaw directory deleted before starting validation!!!
+2024-05-13/22:51:49		GoodRaw directory deleted successfully!!!
+2024-05-13/22:51:59		GoodRaw directory deleted successfully!!!
+2024-05-13/22:51:59		Bad files moved to archive
+2024-05-13/22:51:59		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/22:52:17		GoodRaw directory deleted successfully!!!
+2024-05-13/22:52:17		Bad files moved to archive
+2024-05-13/22:52:17		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/23:14:05		BadRaw directory deleted before starting validation!!!
+2024-05-13/23:14:05		GoodRaw directory deleted successfully!!!
+2024-05-13/23:14:16		GoodRaw directory deleted successfully!!!
+2024-05-13/23:14:16		Bad files moved to archive
+2024-05-13/23:14:16		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/23:19:53		GoodRaw directory deleted successfully!!!
+2024-05-13/23:19:53		Bad files moved to archive
+2024-05-13/23:19:53		Bad Raw Data Folder Deleted successfully!!
+2024-05-13/23:28:27		GoodRaw directory deleted successfully!!!
+2024-05-13/23:28:27		Bad files moved to archive
+2024-05-13/23:28:27		Bad Raw Data Folder Deleted successfully!!
+2024-05-14/12:27:41		GoodRaw directory deleted successfully!!!
+2024-05-14/12:27:41		Bad files moved to archive
+2024-05-14/12:27:41		Bad Raw Data Folder Deleted successfully!!
+2024-05-14/12:37:43		GoodRaw directory deleted successfully!!!
+2024-05-14/12:37:43		Bad files moved to archive
+2024-05-14/12:37:43		Bad Raw Data Folder Deleted successfully!!
+2024-05-15/00:43:34		GoodRaw directory deleted successfully!!!
+2024-05-15/00:43:34		Bad files moved to archive
+2024-05-15/00:43:34		Bad Raw Data Folder Deleted successfully!!
